@@ -1,4 +1,4 @@
-/* Program to find the smallest element of an array and return its index*/
+/* Program to find the biggest element of an array and return its index*/
 
 #include <stdio.h>
 
